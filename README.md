@@ -315,10 +315,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📬 Contact
 
-**Project Maintainer:** [Your Name]
+**Project Maintainer:** [Andres Marte]
 
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- Email: your.email@example.com
+- GitHub: [@Visuxlize](https://github.com/Visuxlize)
+- Email: mAndres1994@gmail.com
 
 ---
 
