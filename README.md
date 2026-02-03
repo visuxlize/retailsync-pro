@@ -308,7 +308,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🙏 Acknowledgments
 
 - Built as a passion project to solve real retail scheduling problems
-- Inspired by the need to save managers time and prevent labor law violations
+- Inspired by the need to save managers' time and prevent labor law violations
 - Learning journey documented at each phase
 
 ---
@@ -317,8 +317,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Project Maintainer:** [Your Name]
 
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- Email: your.email@example.com
+- GitHub: [@Visuxlize](https://github.com/Visuxlize)
+- Email: mAndres1994@gmail.com
 
 ---
 
